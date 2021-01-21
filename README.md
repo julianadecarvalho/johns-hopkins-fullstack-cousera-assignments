@@ -2,7 +2,7 @@
 #### Johns Hopkins University - Coursera
 
 ---
-Repository contains module solutions to assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University - Coursera
+Repository contains my module solutions to assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University - Coursera
 
 ---
 **Assignment Instructions:**
