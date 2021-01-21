@@ -15,6 +15,9 @@ Repository contains module solutions to assignments for the course HTML, CSS, Ja
 
 - [Module 5 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
 
+**My Solutions:**
+
+- [Module 2 Solution](https://julianadecarvalho.github.io/module2-solution/)
 
 
 **My Solutions:**
