@@ -18,6 +18,9 @@ Repository contains my module solutions to assignments for the course HTML, CSS,
 **My Solutions:**
 
 - [Module 2 Solution](https://julianadecarvalho.github.io/module2-solution/)
+
 - [Module 3 Solution](https://julianadecarvalho.github.io/module3-solution/)
+
 - [Module 4 Solution](https://julianadecarvalho.github.io/module4-solution/)
+
 - [Module 5 Solution]()
